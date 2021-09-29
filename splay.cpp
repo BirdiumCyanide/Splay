@@ -186,6 +186,7 @@ int main(){
         tree.insert(i * 3 % 100);
         tree.find(i * 3 % 100);
     }
+    printf("Nyaaaaaan~\n");
 
     // for(int i = 0; i <= N; i++){
     //     tree.remove(i);
